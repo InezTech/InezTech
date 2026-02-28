@@ -9,7 +9,7 @@ I am a Computer Science student at IU International University specializing in h
 * 🌍  I'm based in Bad Honnef
 * 🖥️  See my portfolio at [The Dev Canvas](http://www.thedevcanvas.eu)
 * ✉️  You can contact me at [info@ineztech.eu](mailto:info@ineztech.eu)
-* 🚀  I'm currently working on [Custom AI powered bot solving virtual staging, virtual remodeling, virtual de-staging and 6+ high impact services under 30 seconds for Real estate industry](http://web.telegram.org/k/#@StageStudiosBot)
+* 🚀  I'm currently working on Custom AI powered bot solving virtual staging, virtual remodeling, virtual de-staging and 6+ high impact services under 30 seconds for Real estate industry
 * 🧠  I'm currently learning Advanced Machine Learning foundations and LLM implementations for workflow optimization while also studying for my AWS certifications.
 * 💬  Ask me about Incredibly passionate about business trends, AI enhancements to the tech field and money making strategies that determine my next altitude to climb.
 
